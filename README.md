@@ -32,3 +32,10 @@ You can open the web application by running the `:composeApp:wasmJsBrowserDevelo
 <img src="./screen_002.png" alt="apps" width="300"/>
 
 <img src="./screen_003.png" alt="Server response Page" width="300"/>
+
+
+Refrences: 
+
+https://kmp.jetbrains.com/
+
+https://youtu.be/RSBO1C_Du2U?si=fWjWsJgei71-kLAi
